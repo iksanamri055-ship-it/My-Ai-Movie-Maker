@@ -1,3 +1,5 @@
+import pydantic
+pydantic.v1.BaseModel.model_config = {} # Baris tambahan untuk bypass error
 import streamlit as st
 import replicate
 import os
