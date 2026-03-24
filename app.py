@@ -3,7 +3,7 @@ import replicate
 import os
 
 # Ambil API Token dari Secrets
-REPLICATE_API_TOKEN = st.secrets["REPLICATE_API_TOKEN"]
+REPLICATE_API_TOKEN = st.secrets["r8_8Z5A0JiGh0vyQ6Z3n7NTLAA6GN4uNI80QBts3"]
 
 st.title("🎬 Cinemorph AI Movie Maker")
 
